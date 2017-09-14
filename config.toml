@@ -1,0 +1,22 @@
+baseurl = "http://ripx80/"
+title = "RIPx80"
+
+theme = "editor"
+
+keywords = "security hacking github src pentest tools"
+email = "ripx80@protonmail.com"
+robots = "follow, all"
+publisher = "Ripx80"
+
+canonifyurls = true
+paginate = 3
+
+[params]
+    author = "Ripx80"
+    locale = "en-US"
+    logo = "images/bg.jpg"
+    custom_css = ["/css/custom.css"]
+    toptitle = "$ RIPx80"
+    subtitle = "on execution..."
+    description = "bits in trouble"
+    copyright = "Daniel Rittweiler"

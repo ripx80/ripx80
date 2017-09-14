@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://ripx80/about/</loc>
+    <lastmod>2017-09-04T13:05:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ripx80/legal_disclosure/</loc>
+    <lastmod>2017-09-03T14:00:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ripx80/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ripx80/</loc>
+    <lastmod>2017-09-04T13:05:52+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ripx80/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

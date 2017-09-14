@@ -1,0 +1,46 @@
+@font-face {
+    font-family: bytes;
+    src: url("/fonts/square.ttf");
+}
+.logo{
+    background-image: url("/images/bg.jpg");  
+    background-repeat: no-repeat;  
+    background-color:black;
+    height:300px;
+    background-position: center; 
+    margin-top:-20px !important;
+}
+
+.brand{
+    font-family: bytes;
+    background-color:#002b36;
+    border-radius: 10px;     
+}
+
+.brand h1{    
+    margin-bottom:5px;
+}
+
+h1, h2, h3{
+    color:#db0202;    
+}
+
+a{
+    color:#db0202;
+    font-weight:bold;
+}
+
+a:hover{
+    color:#ff0000;
+ 
+}
+.subtitle{
+    color:#db0202;
+    margin-top:5px; 
+}
+
+.pagin{
+    font-weight: bold;
+}
+
+

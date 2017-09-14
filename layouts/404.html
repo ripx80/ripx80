@@ -1,0 +1,20 @@
+{{ partial "top.html" . }}
+<pre>
+           ___________    ____                                           
+    ______/   \__//   \__/____\                             
+  _/   \_/  :           //____\\                             
+ /|      :  :  ..      /        \                         
+| |     ::     ::      \        /                             
+| |     :|     ||     \ \______/                               
+| |     ||     ||      |\  /  |     404 - Not Found
+ \|     ||     ||      |   / | \    <-- Are you sure about your request? -->
+  |     ||     ||      |  / /_\ \ 
+  | ___ || ___ ||      | /  /    \    
+   \_-_/  \_-_/ | ____ |/__/      \   
+                _\_--_/    \      /   
+               /____             /  
+              /     \           /    
+              \______\_________/     
+</pre>
+<p><a href="/">{{ ( index $.Site.Data.translations $.Site.Params.locale ).gotoroot }}</a></p>
+{{ partial "bottom.html" . }}
