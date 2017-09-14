@@ -6,10 +6,22 @@
     <description>Recent content on RIPx80</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Daniel Rittweiler</copyright>
-    <lastBuildDate>Mon, 04 Sep 2017 13:05:52 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 14 Sep 2017 12:16:51 +0200</lastBuildDate>
     
 	<atom:link href="https://meertec.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Goodbye Meertec</title>
+      <link>https://meertec.de/posts/goodbye-meertec/</link>
+      <pubDate>Thu, 14 Sep 2017 12:16:51 +0200</pubDate>
+      
+      <guid>https://meertec.de/posts/goodbye-meertec/</guid>
+      <description>After a few years my website meertec.de which you can contact me for webdesign and other programming stuff goes offline.
+Now my personal website ripx80 can find temp. on this domain. After registration you will be redirected to ripx80.info.
+If you want some special or make me an offer, contact me about my e-mail address ripx80@protonmail.com
+So goodbye meertec.de</description>
+    </item>
     
     <item>
       <title>$ whoami Ripx80</title>

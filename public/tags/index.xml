@@ -6,9 +6,19 @@
     <description>Recent content in Tags on RIPx80</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Daniel Rittweiler</copyright>
+    <lastBuildDate>Thu, 14 Sep 2017 12:16:51 +0200</lastBuildDate>
     
 	<atom:link href="https://meertec.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stuff</title>
+      <link>https://meertec.de/tags/stuff/</link>
+      <pubDate>Thu, 14 Sep 2017 12:16:51 +0200</pubDate>
+      
+      <guid>https://meertec.de/tags/stuff/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
