@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RIPx80</title>
-    <link>http://ripx80/</link>
+    <link>https://meertec.de/</link>
     <description>Recent content on RIPx80</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Daniel Rittweiler</copyright>
     <lastBuildDate>Mon, 04 Sep 2017 13:05:52 +0200</lastBuildDate>
     
-	<atom:link href="http://ripx80/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://meertec.de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>$ whoami Ripx80</title>
-      <link>http://ripx80/about/</link>
+      <link>https://meertec.de/about/</link>
       <pubDate>Mon, 04 Sep 2017 13:05:52 +0200</pubDate>
       
-      <guid>http://ripx80/about/</guid>
+      <guid>https://meertec.de/about/</guid>
       <description>Introduction RIP is the Instruction Pointer of 64-Bit CPUs and he is interupting vector 0x80, on linux systems we use this for system_calls. The pseudo name was created when I read the Book &amp;ldquo;The Art of Exploitation&amp;rdquo; since few years and handle with the EIP on 64-Bit systems :-).
 I love the linux system and uses Gentoo if I have a lot of time and for security proposes. But when I have some trouble in the year I switch to Arch Linux&amp;hellip; because I have not 45min to compile the newest firefox.</description>
     </item>
     
     <item>
       <title>Legal Disclosure</title>
-      <link>http://ripx80/legal_disclosure/</link>
+      <link>https://meertec.de/legal_disclosure/</link>
       <pubDate>Sun, 03 Sep 2017 14:00:27 +0200</pubDate>
       
-      <guid>http://ripx80/legal_disclosure/</guid>
+      <guid>https://meertec.de/legal_disclosure/</guid>
       <description>Information in accordance with section 5 TMGRittweiler, DanielRoonstra&amp;szlig;e 1265195 WiesbadenContactTelephone: 105405050E-Mail: ripx80@protonmail.comWebsite: https://ripx80.ioPerson responsible for content in accordance with 55 Abs. 2 RStVDaniel Rittweiler
 Roonstra&amp;szlig;e 12
 65195 WiesbadenDisclaimerAccountability for contentThe contents of our pages have been created with the utmost care. However, we cannot guarantee the contents&amp;rsquo; accuracy, completeness or topicality. According to statutory provisions, we are furthermore responsible for our own content on these web pages. In this context, please note that we are accordingly not obliged to monitor merely the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity.</description>

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on RIPx80</title>
-    <link>http://ripx80/tags/</link>
+    <link>https://meertec.de/tags/</link>
     <description>Recent content in Tags on RIPx80</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Daniel Rittweiler</copyright>
     
-	<atom:link href="http://ripx80/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://meertec.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
