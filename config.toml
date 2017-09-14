@@ -1,4 +1,5 @@
-baseurl = "http://ripx80/"
+baseurl = "https://meertec.de/"
+#baseurl = "http://ripx80/"
 title = "RIPx80"
 
 theme = "editor"

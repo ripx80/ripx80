@@ -1,4 +1,4 @@
 # Ripx80 Webiste
 https://ripx80.info
 
-only for my personal propouses.
+only for my personal purposes.
