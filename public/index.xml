@@ -6,10 +6,21 @@
     <description>Recent content on RIPx80</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Daniel Rittweiler</copyright>
-    <lastBuildDate>Thu, 14 Sep 2017 12:16:51 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2017 13:27:26 +0200</lastBuildDate>
     
 	<atom:link href="https://meertec.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Archlinux kernel configuration and compiling</title>
+      <link>https://meertec.de/posts/arch-kernel-compiling/</link>
+      <pubDate>Fri, 22 Sep 2017 13:27:26 +0200</pubDate>
+      
+      <guid>https://meertec.de/posts/arch-kernel-compiling/</guid>
+      <description>Introduction This is a short discurse about self kernel compilation on a arch system. Gentoo users are familiar with this kind of instructions or use the genkernel programm. You can find an article on https://wiki.archlinux.org/index.php/Kernels/Traditional_compilation
+Install kernel sources and headers $ pacman -S base-devel # only gcc and make $ mkdir /usr/src/linux $ cd /usr/src/linux  download the newest kernel release, at this moment it is 4.13.0
+$ wget https://www.</description>
+    </item>
     
     <item>
       <title>Goodbye Meertec</title>

@@ -6,10 +6,37 @@
     <description>Recent content in Tags on RIPx80</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Daniel Rittweiler</copyright>
-    <lastBuildDate>Thu, 14 Sep 2017 12:16:51 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2017 13:27:26 +0200</lastBuildDate>
     
 	<atom:link href="https://meertec.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arch</title>
+      <link>https://meertec.de/tags/arch/</link>
+      <pubDate>Fri, 22 Sep 2017 13:27:26 +0200</pubDate>
+      
+      <guid>https://meertec.de/tags/arch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization</title>
+      <link>https://meertec.de/tags/optimization/</link>
+      <pubDate>Fri, 22 Sep 2017 13:27:26 +0200</pubDate>
+      
+      <guid>https://meertec.de/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://meertec.de/tags/security/</link>
+      <pubDate>Fri, 22 Sep 2017 13:27:26 +0200</pubDate>
+      
+      <guid>https://meertec.de/tags/security/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stuff</title>
